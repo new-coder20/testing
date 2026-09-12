@@ -10,3 +10,9 @@ def signup(password):
     print("Signed up!")
 
 print("this is not so perfect, nothing is done perfectly, another request")
+
+
+username = "abc"
+def rename(name);
+    username : name
+    
