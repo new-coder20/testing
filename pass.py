@@ -9,7 +9,4 @@ def signup(password):
         f.write(password + "\n")
     print("Signed up!")
 
-login("123456")
-signup("123456")
-signup("123457")
-    
+print("this is not so perfect, nothing is done perfectly, another request")
