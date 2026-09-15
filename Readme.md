@@ -10,3 +10,6 @@ now the second ques is how to setup webhook for that? i mean , i want that when 
 
 is it possible to create webhook for only my account? without using smee or ngrok?
 answer - 
+
+not getting, pr req created, speeling mistakes - 
+"spelling" 
