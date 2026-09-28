@@ -1,5 +1,5 @@
 def login(password):
-    if password == "123456": 
+    if password == "secret-password": 
         print("Logged in!")
     else:
         print("Incorrect password")
@@ -9,4 +9,6 @@ def signup(password):
         f.write(password + "\n")
     print("Signed up!")
 
-print("this is not so perfect, nothing is done perfectly, another request")
+print("use hashed passwords, issue is that we are handling credientials without security")
+
+    
