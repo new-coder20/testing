@@ -13,3 +13,6 @@ answer -
 
 not getting, pr req created, speeling mistakes - 
 "spelling" 
+
+
+hi everyone, new bugs are there on website, so please be carefull 
